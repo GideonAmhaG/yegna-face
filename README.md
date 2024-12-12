@@ -136,7 +136,11 @@ Starts the server in development mode using Nodemon.
 
 ## Contributing
 
-If you would like to contribute to this project, please fork the repository and create a pull request. 
+If you would like to contribute to this project, please fork the repository and create a pull request.
+
+## Authors
+
+Gideon Amha Gebremedhin - [Github](https://github.com/GideonAmhaG) | [X](https://x.com/GideonAmha)
 
 ## License
 
