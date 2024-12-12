@@ -144,4 +144,4 @@ Gideon Amha Gebremedhin - [Github](https://github.com/GideonAmhaG) | [X](https:/
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+[MIT](https://choosealicense.com/licenses/mit/)
