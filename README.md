@@ -2,6 +2,12 @@
 
 Yegnaface is a social media application designed for Ethiopians to connect, share, and engage with each other. Built using React for the frontend and Node.js with Express for the backend, this application provides a seamless user experience with features like user authentication, posting, and friend management.
 
+## Demo
+
+Watch a short demo of Yegnaface in action:
+
+[![Yegnaface Demo](https://img.youtube.com/vi/5BHslIRd3-c/0.jpg)](https://youtu.be/5BHslIRd3-c)
+
 ## Table of Contents
 
 - [Features](#features)
